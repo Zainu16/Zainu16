@@ -2,11 +2,12 @@
 # Readme.md
  
  A page about me.
-## 🚀 About Me
-I'm a full stack developer from Nigeria
-
 
 # Hi, I'm Alaya Zainab! 👋
+
+
+## 🚀 About Me
+I'm a full stack developer from Nigeria.
 
 
 ## 🔗 Links
