@@ -17,7 +17,7 @@ I'm a full stack developer from Nigeria.
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Html and Css.
 
-🧠 I'm currently learning Html, Css and JavaScript
+🧠 I'm currently learning Html, Css, JavaScript and Python.
 
 📫 Reach me on my Email: alayaajibola@gmail.com
 
